@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Accounts>
+  <Account>
+    <Name>YTXKsZLAbzvfn82fb6wjPQ==</Name>
+    <Email>0aNiYhrx6BbYyRe5QKeFHw==</Email>
+    <Password>tO6dFIWCF0XJCi9MOMhAhQ==</Password>
+    <CreditCard>lmmZH0BPPScoEle+68YXlw==</CreditCard>
+    <SubscriptionKey>MGFOaVlocng2QmJZeVJlNVFLZUZIdz09MzdkYjFmYmQtOTViOS00NmE1LThhOWMtNmMyMGFlYTk2NDll</SubscriptionKey>
+    <Role>Staff2</Role>
+  </Account>
+  <Account>
+    <Name>EnFVjpVJpXjgG3ZqeNQRGA==</Name>
+    <Email>8i2WrGpvUhncplWV+IgLVQ==</Email>
+    <Password>tO6dFIWCF0XJCi9MOMhAhQ==</Password>
+    <CreditCard>lmmZH0BPPScoEle+68YXlw==</CreditCard>
+    <SubscriptionKey>OGkyV3JHcHZVaG5jcGxXVitJZ0xWUT09MTEwM2I0ZDMtOGE5ZS00ODUzLWEyZGEtZTJmNjlkYTQwZDhj</SubscriptionKey>
+    <Role>Staff1</Role>
+  </Account>
+  <Account>
+    <Name>peTUv/ju6//Egtrjrqf+GQ==</Name>
+    <Email>eoatPs4tQ/gabtll9W3hCQ==</Email>
+    <Password>E/zxzhApb6cRsMAlTApskA==</Password>
+    <CreditCard>K4DLqHtXX/UAupPzK7AQJA==</CreditCard>
+    <SubscriptionKey>ZW9hdFBzNHRRL2dhYnRsbDlXM2hDUT09YWY1MjQ3ODktNGNmZC00ZjY3LTk3MmItZDQyOTUyZjczNjIy</SubscriptionKey>
+    <Role>Customer</Role>
+  </Account>
+</Accounts>
